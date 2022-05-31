@@ -2,12 +2,12 @@
 <img src="assets/logo-ancient.svg">
   <p align="center">Buy your museum ticket with us! <br> Compre seu ingresso para o museu com a gente!</p>
     <p>
-      <a href="https://paulpbi.github.io/ancient/"> Website </a> •
+      <a href="https://paulopbi.github.io/ancient/"> Website </a> •
       <a href="#en">English</a> •
       <a href="#pt">Português</a> •
       <a href="https://www.instagram.com/paulopbi_/">Instagram</a> •
-      <a href="https://www.linkedin.com/in/paulovictorpbi/">Linkedin</a> •
-      <a href="https://github.com/Paulpbi">Github</a> 
+      <a href="https://www.linkedin.com/in/paulopbi/">Linkedin</a> •
+      <a href="https://github.com/paulopbi">Github</a> 
     </p>
 </div>
 
